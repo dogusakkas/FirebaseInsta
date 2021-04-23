@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152840782073",
+    "project_id": "fir-insta-a4990",
+    "storage_bucket": "fir-insta-a4990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152840782073:android:2470a333d9c011b80fa228",
+        "android_client_info": {
+          "package_name": "com.dogusakkass.firebaseinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152840782073-05n7cs5vlqjlk3b5ejfvosiha46mch6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5WG8PMuUYRL7GnzAy0uBonu7_neJj14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152840782073-05n7cs5vlqjlk3b5ejfvosiha46mch6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
